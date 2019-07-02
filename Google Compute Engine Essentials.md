@@ -151,7 +151,7 @@ Instância de máquina virtual composta por uma GPU NVIDIA® Tesla® K80 com mem
 <br>
 <div style="text-align:center"> 
 <a href="https://github.com/whoisraibolt">GitHub</a> | 
-<a href="https://www.linkedin.com/in/whoisraibolt">LinkedIn</a>
+<a href="https://www.linkedin.com/in/whoisraibolt">LinkedIn</a> |
 <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8693241P4">Lattes</a> | 
 <a href="mailto:alexandra.raibolt@gmail.com">E-mail</a> | 
 <a href="https://whoisraibolt.com.br/">Site</a>
